@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on the same 
 - 📫 How to reach me:- 
     [LinkedIn](https://www.linkedin.com/in/sandeep005/)
-    [Gamil](sandeepgarg14319@gmail.com)
+    [Gmail](sandeepgarg14319@gmail.com)
     
 ### Languages and Tools:
 
