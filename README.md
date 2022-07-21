@@ -1,5 +1,5 @@
-- 👋 Hi, I’m [Sandeep Garg], working as a Frontend Developer.
-- 👀 I’m currently working at [Publicis Sapient]
+- 👋 Hi, I’m Sandeep Garg, working as a Frontend Developer.
+- 👀 I’m currently working at Publicis Sapient
 - 💞️ I’m looking to collaborate on the same 
 - 📫 How to reach me:- 
     [LinkedIn](https://www.linkedin.com/in/sandeep005/)
